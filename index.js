@@ -8,3 +8,6 @@ function sayhi() {
     console.log("Say hi to everyone");
 }
 sayhi();
+function helloDeepak() {
+    console.log("Hello deepak");
+}
