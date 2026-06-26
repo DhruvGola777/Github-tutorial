@@ -8,3 +8,10 @@ function sayhi() {
     console.log("Say hi to everyone");
 }
 sayhi();
+function helloDeepak() {
+    console.log("Hello deepak");
+}
+function sum(a, b) {
+    return a + b;
+}
+console.log(sum(5, 10));
