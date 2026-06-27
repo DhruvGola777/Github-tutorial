@@ -12,3 +12,4 @@ function helloDeepak() {
     console.log("Hello deepak");
 }
 console.log("End log")
+console.log("second end log")
